@@ -95,8 +95,13 @@
 				g.fillPolygon(para);
 				
 				//Yellow Trap
-				
-				
+				g.setColor(new Color(255,243,17));
+				Polygon trap = new Polygon();
+				trap.addPoint(650,400);
+				trap.addPoint(650,350);
+				trap.addPoint(550,350);
+				trap.addPoint(600,400);
+				g.fillPolygon(trap);
 
 		}	
 
