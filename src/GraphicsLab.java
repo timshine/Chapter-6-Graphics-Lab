@@ -1,6 +1,5 @@
 
-
-	/**************************************
+/**************************************
 	 *     Timothy Shine                  * 
 	 *     AP Lab 06 - Graphics Lab       * 
 	 *     10/6/2015                      * 
@@ -51,7 +50,7 @@
 				
 				//Random Squares
 				int x1 = (int)(Math.random()*330 + 410);
-				int y1 = (int)(Math.random()*240 + 10);
+				int y1 = (int)(Math.random()*230 + 20);
 				g.fillRect(x1, y1, 50, 50);
 			}
 			
@@ -107,5 +106,4 @@
 
 
 	}
-
 
