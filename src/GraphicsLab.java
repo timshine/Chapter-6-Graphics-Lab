@@ -1,5 +1,4 @@
-
-/**************************************
+	/**************************************
 	 *     Timothy Shine                  * 
 	 *     AP Lab 06 - Graphics Lab       * 
 	 *     10/6/2015                      * 
@@ -8,7 +7,7 @@
 
 	import java.awt.*;
 	import java.applet.*;
-	import java.util.*; 
+	
 
 
 	public class GraphicsLab extends Applet {
@@ -106,4 +105,3 @@
 
 
 	}
-
